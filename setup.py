@@ -42,4 +42,3 @@ setup(
         "Topic :: Utilities",
     ],
 )
-{"mode":"full","isActive":false}
