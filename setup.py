@@ -15,9 +15,9 @@ with open(path.join(HERE, PACKAGE_NAME, "const.py"), encoding="utf-8") as fp:
 setup(
     name="zarena-translate",
     version=VERSION,
-    author="itsbravestone",
+    author="Bravestone (Steve)",
     author_email="imbravestone@zarena.ga",
-    description="A translator for google translator.",
+    description="A custom translator for google translator.",
     install_requires=["requests", "six"],
     license="MIT License",
     long_description=README,
